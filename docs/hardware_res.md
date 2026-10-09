@@ -15,7 +15,7 @@
 
 opcja 1: https://www.amazon.pl/LILYGO-T-SIM7080G-S3-Standard-rozwojowa-PMU/dp/B0BW3NN54L?crid=3IVHZN4HZW64P&dib=eyJ2IjoiMSJ9.3dmzHWx-T_kVgvlv3YqJkFoGH2MudnKopQzAggTfbXDWdLd6mLmwDqPP4XFu_-vtWVQg3lBUp2jlpAPjagK-YQ.Qv7u6xUnWVbW4hqBgDF5BmJ6ubqM4wuXNSyKKthzqR4&dib_tag=se&keywords=t-sim7000g&qid=1791026674&sprefix=T-SIM%2Caps%2C112&sr=8-5
 
-
+LilyGo na Elektroweb: https://elektroweb.pl/pl/esp32/1268-esp32-s3-lilygo-t3-s3-lora-sx1280-24ghz-wifi-bluetooth-slot-tf-usb-c.html
 
 
 ## komponenty
