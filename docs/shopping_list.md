@@ -1,8 +1,6 @@
 1. Płytka \
 https://kamami.pl/firebeetle/1196981-firebeetle-2-esp32-c6-iot-plytka-rozwojowa-z-modulem-esp32-c6-5906623499458.html - 36zł
 
-    https://kamami.pl/esp32/1202020-stemma-qt-esp32-c6-feather-plytka-rozwojowa-z-modulem-esp32-c6-5902186331457.html - 76zł
-
 2. Czujnik temperatury, wilgotności oraz ciśnienia BME280 \
 https://botland.com.pl/czujniki-cisnienia/11803-bme280-czujnik-wilgotnosci-temperatury-oraz-cisnienia-110kpa-i2cspi-33v-5904422366179.html - 35zł
 
