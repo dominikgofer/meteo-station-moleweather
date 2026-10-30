@@ -87,7 +87,7 @@ Analiza obejmuje ryzyka techniczne, zasilania, bezpieczeństwa i organizacyjne s
 
 ## 3. Podsumowanie
 
-Projekt cechuje się bardzo dobrą relacją kosztów do możliwości (szacowany budżet podzespołów z czujnikami gazów O3 i NO2 zamyka się w granicach ok. 600–650 PLN, mieszcząc się bezpiecznie w limicie 1000 PLN). Kluczem do sukcesu technicznego będzie:
+Projekt cechuje się bardzo dobrą relacją kosztów do możliwości (szacowany budżet podzespołów z czujnikami gazów O3 i NO2 zamyka się w granicach ok. 500 PLN, mieszcząc się bezpiecznie w limicie 800 PLN). Kluczem do sukcesu technicznego będzie:
 * **Zarządzanie energią** poprzez programowe wyłączanie czujników gazów i pyłu w okresach między pomiarami.
 * **Wykorzystanie przycisku zewnętrznego** do wybudzania modułu Wi-Fi na żądanie, co gwarantuje długą żywotność ogniw 18650 w trybie autonomicznym.
  
