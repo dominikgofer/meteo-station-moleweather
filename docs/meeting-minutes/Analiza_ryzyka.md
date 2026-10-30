@@ -26,7 +26,7 @@ Analiza obejmuje ryzyka techniczne, zasilania, bezpieczeństwa i organizacyjne s
 
 **Poza zakresem:** punkt dostępowy poprzez Wi-Fi, obudowa wodoodporna
 
-## 2. Matryca Ryzyk i Ocena Zagrożeń
+## 2. Macierz Ryzyk i Ocena Zagrożeń
 
 
 | Lp. | Obszar analizy | Zagrożenie / Potencjalny Problem | Prawdopodobieństwo (1-5) | Wpływ (1-5) | Poziom Ryzyka (P X W) |
